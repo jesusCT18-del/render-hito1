@@ -1,0 +1,25 @@
+{
+  "name": "render-hito1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesusCT18-del/render-hito1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jesusCT18-del/render-hito1/issues"
+  },
+  "homepage": "https://github.com/jesusCT18-del/render-hito1#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
+
